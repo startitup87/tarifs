@@ -1,1 +1,9 @@
-git init
+{
+  "name": "dae-business-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "demetrius b moreland",
+  "license": "ISC"
+}
